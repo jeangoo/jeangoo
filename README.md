@@ -1,30 +1,35 @@
-# 👋 ¡Hola! Soy Jean
+<h1 align="center">Jean 👨‍💻</h1>
 
-Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, ideas creativas y soluciones que he desarrollado mientras aprendo y experimento con diferentes tecnologías.
-
-## 🚀 Sobre mí
-- 💻 Apasionado por la programación y la automatización
-- 🧠 Siempre aprendiendo algo nuevo
-- 🛠️ Trabajo con Python, JavaScript, HTML/CSS y más
-- 🎯 Enfocado en proyectos útiles, simples y bien estructurados
-
-## 🧰 Tecnologías favoritas
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-
-## 📌 Proyectos destacados
-- 🔧 **Gestor de Notas**: Una app en consola para guardar y gestionar notas en JSON.
-- 📚 **App de Clima**: Consulta el clima actual por ciudad o ubicación (React + OpenWeather API).
-- 📋 **Gestor de Tareas**: Mini CRUD en consola con almacenamiento persistente.
-
-## 📫 Contacto
-- 💬 Abierto a colaborar o intercambiar ideas
-- 📧 [TuCorreo@example.com] (reemplaza esto por el real si quieres)
+<p align="center">Apasionado por el código, las ideas simples y bien hechas.</p>
 
 ---
 
-⭐ Si te gusta algo de lo que ves, no dudes en dejar una estrella o contribuir.
+### 🧠 Sobre mí
+
+- 💻 Me encanta programar y automatizar tareas.
+- 🛠️ Siempre en busca de mejorar mis proyectos.
+- 🌱 Aprendiendo todos los días algo nuevo.
+
+---
+
+### 🧰 Tecnologías que uso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-VSCode-1f1f1f?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-Python-1f1f1f?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-Cursor-1f1f1f?style=for-the-badge&logo=cursor&logoColor=8E44AD" />
+  <img src="https://img.shields.io/badge/-Git-1f1f1f?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/-GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=fff" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- 📧 jeaancast03@gmaail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeaancast03&show_icons=true&theme=tokyonight" alt="Jean's stats"/>
+</p>
