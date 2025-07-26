@@ -1,6 +1,6 @@
 <!-- PERFIL DE GITHUB -->
 
-# Jean Cast
+# Jean
 
 **Desarrollador autodidacta | Enfocado en lo simple y funcional**
 
@@ -28,17 +28,9 @@
 
 ---
 
-## GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeaancast03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
-</p>
-
----
 
 ## Contacto
 
 - 📧 jeaancast03@gmaail.com
-- 🌍 [linkedin.com/in/jean-cast](#) *(opcional si quieres añadirlo más adelante)*
 
 <sub>Gracias por visitar mi perfil. Siempre dispuesto a colaborar y seguir aprendiendo.</sub>
