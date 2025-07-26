@@ -1,53 +1,34 @@
-<!-- README DE PERFIL DE GITHUB -->
+# Jean's profile
 
-<div align="center">
+## About Me
+* Still learning every day, I’m focused on developing my skills to better connect business goals with practical tech solutions that help grow revenue and improve customer experiences.
 
-<h1 style="font-weight:bold; font-size:3rem; color:#d9f9f4">Jean Cast</h1>
+* I enjoy tackling challenges, staying curious, and evolving my expertise to make a real impact.
 
-<p style="font-size:1.1rem; color:#9cd9de">
-Desarrollador autodidacta — Enfocado en lo simple y funcional
-</p>
+## Tech Stack 
 
-</div>
+![Python](https://img.shields.io/badge/-Python-9966ff?logo=python&logoColor=f1f1f1)&nbsp;
+![Git](https://img.shields.io/badge/-Git-9966ff?logo=git&logoColor=f1f1f1)&nbsp;
+![Github](https://img.shields.io/badge/-Github-9966ff?logo=github&logoColor=f1f1f1)&nbsp;
+![VSCode](https://badgen.net/badge/icon/VSCode?icon=visualstudio&label=&color=9966ff&labelColor=9966ff&scale=1)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-9966ff?logo=astro&logoColor=f1f1f1)&nbsp;
+![Cursor](https://img.shields.io/badge/-Cursor-9966ff?logo=cursor&logoColor=f1f1f1)&nbsp;
 
----
 
-## 🧩 Sobre mí
+## GitHub Analytics
 
-Soy un desarrollador autodidacta que prioriza la claridad, la estética y la funcionalidad en cada proyecto.
+#### Most used lenguages
+<a href="https://github.com/jeangoo">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangoo&theme=dark&hide_border=true&bg_color=0D1117&title_color=9966ff&size_weight=0&count_weight=1&card_width=400&hide_title=true" />
+</a>
 
-- 🎨 Creador del tema **Soft Midnight** para VSCode  
-- 🌑 Amante del diseño minimalista y entornos oscuros  
-- 🚀 Trabajo con tecnologías modernas como Astro y herramientas de automatización  
-- 📚 Siempre en constante aprendizaje y evolución  
+#### Github stats
+<a href="https://github.com/jeangoo">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=jeangoo&theme=dark&show_icons=true&hide_border=true&icon_color=9966ff&bg_color=0D1117&title_color=9966ff&hide_title=true&card_width=100"/>
+</a>
 
----
+#### Streak Stats
+<a href="https://github.com/jeangoo">
+  <img height=250 align="center" src="https://streak-stats.demolab.com/?user=jeangoo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&hide_border=true&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
+</a>
 
-## 🛠️ Tech Stack
-
-<div align="left" style="display:flex;flex-wrap:wrap;gap:10px;background:#0f0f0f;padding:1rem;border-radius:10px;">
-
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/VSCode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=8E44AD" />
-  <img src="https://img.shields.io/badge/Astro-0d1117?style=flat-square&logo=astro&logoColor=ffffff" />
-
-</div>
-
----
-
-## 📫 Contacto
-
-- Email: `jeaancast03@gmaail.com`
-
----
-
-<div align="center">
-
-<sub style="color:#8e8e8e">
-Gracias por visitar mi perfil. Siempre abierto a colaborar, aprender y crear cosas útiles.
-</sub>
-
-</div>
