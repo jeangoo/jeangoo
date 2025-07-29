@@ -16,7 +16,7 @@
 
 
 ## GitHub Analytics
-#### ⚡ Recent Activity
+#### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [jeangoo/test-git](https://github.com/jeangoo/test-git)<br>
