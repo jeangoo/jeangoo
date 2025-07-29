@@ -16,7 +16,7 @@
 
 
 ## GitHub Analytics
-## ⚡ Recent Activity
+⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
@@ -32,8 +32,8 @@
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=jeangoo&theme=dark&show_icons=true&hide_border=true&icon_color=9966ff&bg_color=0D1117&title_color=9966ff&hide_title=true&card_width=100"/>
 </a>
 
-#### Streak Stats
+<!-- #### Streak Stats
 <a href="https://github.com/jeangoo">
   <img height=250 align="center" src="https://streak-stats.demolab.com/?user=jeangoo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&hide_border=true&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
-</a>
+</a> -->
 
