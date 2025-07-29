@@ -16,6 +16,11 @@
 
 
 ## GitHub Analytics
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 #### Most used lenguages
 <a href="https://github.com/jeangoo">
