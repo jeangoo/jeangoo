@@ -19,7 +19,11 @@
 #### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-
+1. ⬆️ Pushed 2 commit(s) to [jeangoo/test-git](https://github.com/jeangoo/test-git)<br>
+2. 🎉 Merged PR [#1](https://github.com/jeangoo/test-git/pull/1) in [jeangoo/test-git](https://github.com/jeangoo/test-git)<br>
+3. 💪 Opened PR [#1](https://github.com/jeangoo/test-git/pull/1) in [jeangoo/test-git](https://github.com/jeangoo/test-git)<br>
+4. ⬆️ Pushed 1 commit(s) to [jeangoo/test-git](https://github.com/jeangoo/test-git)<br>
+5. 📔 Created new repository [jeangoo/test-git](https://github.com/jeangoo/test-git)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Most used lenguages
