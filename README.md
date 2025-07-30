@@ -20,10 +20,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [jeangoo/test](https://github.com/jeangoo/test)<br>
-2. 🎉 Merged PR [#1](https://github.com/jeangoo/test/pull/1) in [jeangoo/test](https://github.com/jeangoo/test)<br>
-3. 💪 Opened PR [#1](https://github.com/jeangoo/test/pull/1) in [jeangoo/test](https://github.com/jeangoo/test)<br>
-4. ⬆️ Pushed 1 commit(s) to [jeangoo/test](https://github.com/jeangoo/test)<br>
-5. 📔 Created new repository [jeangoo/test](https://github.com/jeangoo/test)<br>
+2. ✌️ Released [v0.1.0](https://github.com/jeangoo/releasetest/releases/tag/v0.1.0) in [jeangoo/releasetest](https://github.com/jeangoo/releasetest)<br>
+3. ⬆️ Pushed 1 commit(s) to [jeangoo/releasetest](https://github.com/jeangoo/releasetest)<br>
+4. ⬆️ Pushed 1 commit(s) to [jeangoo/releasetest](https://github.com/jeangoo/releasetest)<br>
+5. ⬆️ Pushed 1 commit(s) to [jeangoo/releasetest](https://github.com/jeangoo/releasetest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Most used lenguages
