@@ -19,11 +19,11 @@
 #### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
-2. 📔 Created new repository [jeangoo/bento-grid](https://github.com/jeangoo/bento-grid)<br>
-3. ⬆️ Pushed 2 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
-4. 🎉 Merged PR [#2](https://github.com/jeangoo/platzi/pull/2) in [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
-5. 💪 Opened PR [#2](https://github.com/jeangoo/platzi/pull/2) in [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+1. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+2. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+3. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+4. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+5. ⬆️ Pushed 2 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Most used lenguages
