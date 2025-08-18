@@ -21,9 +21,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
 2. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
-3. ⬆️ Pushed 2 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
-4. 🎉 Merged PR [#10](https://github.com/jeangoo/platzi/pull/10) in [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
-5. 💪 Opened PR [#10](https://github.com/jeangoo/platzi/pull/10) in [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+3. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+4. ⬆️ Pushed 2 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+5. 🎉 Merged PR [#10](https://github.com/jeangoo/platzi/pull/10) in [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Most used lenguages
