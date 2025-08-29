@@ -22,8 +22,8 @@
 1. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
 2. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
 3. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
-4. ⬆️ Pushed 2 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
-5. 🎉 Merged PR [#14](https://github.com/jeangoo/platzi/pull/14) in [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+4. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+5. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Most used lenguages
