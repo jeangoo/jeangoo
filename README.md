@@ -19,7 +19,7 @@
 #### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
+1. ⬆️ Pushed 5 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
 2. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
 3. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
 4. ⬆️ Pushed 1 commit(s) to [jeangoo/platzi](https://github.com/jeangoo/platzi)<br>
